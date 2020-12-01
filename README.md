@@ -1,8 +1,14 @@
 # Vernacular
 There are two apis
-// Some comments
   1. validate_finite_values_entity
+ ```bash
+http://127.0.0.1:8000/validate_finite_values_entity
+```
+
   2. validate_numeric_entity
+  ```bash
+http://127.0.0.1:8000/validate_numeric_entity
+```
   
   
 ## docker image size - 923 MB
