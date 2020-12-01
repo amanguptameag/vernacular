@@ -24,3 +24,6 @@ for run the docker image use this command
 ```bash
 docker-compose up
 ```
+
+## response
+![alt text](https://github.com/amankrmeag/covid_data_us_state/blob/main/Screenshot%202020-12-01%20at%206.29.58%20AM.png?raw=true)
